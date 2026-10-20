@@ -3,7 +3,7 @@ Soy Alejandro Vallejo Ramírez, la mayoria de mis amigos me llaman Vallejo.
 
 
 
--Soy estudiante de 1SMR en el colegio IES Zaidín Vergeles, algunas de mis aficiones son:
+Soy estudiante de 1SMR en el colegio IES Zaidín Vergeles, algunas de mis aficiones son:
 
 
 
