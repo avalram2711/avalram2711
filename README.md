@@ -7,7 +7,7 @@ Soy estudiante de 1SMR en el colegio IES Zaidín Vergeles, algunas de mis aficio
 
 
 
--Me gusta salir a la calle con mis amigos a menudo😎 
+-Me gusta salir a la calle con mis amigos a menudo 😎 
 
 
 
@@ -15,8 +15,7 @@ Soy estudiante de 1SMR en el colegio IES Zaidín Vergeles, algunas de mis aficio
 
 
 
--Hacer deporte🥋
-
+-Soy campeón de España en Taekwondo 🥋
 <!--
 **avalram2711/avalram2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
